@@ -1,2 +1,17 @@
 01/10/2025
 https://github.com/latoyadsimon/html-jon-doe-resume-unsolved
+
+01/14/2025
+Figured out how to set the mailto and tel links to open apps. It needs to be set on the computer and then on the browser.
+Open settings > Apps > Default Apps.
+Mail for email, set mailto.
+Phone Link for telephone, set tel.
+Set both to google chrome.
+In Google Chrome:
+Click the 3 dots hamburger menu
+Open settings.
+Privacy and Security > Site Settings.
+Open Additional permissions > protocol handlers
+set them here.
+
+***Bonus, from research I learned about voice.google.com that gives you a free online phone number that can be redirected to your personal phone number. I set tel to that. I set email to mail.google.com.
